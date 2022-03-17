@@ -127,11 +127,6 @@ equal.addEventListener('click', () => {
                 result = 'Error';
         }
 
-        // operandA = '';
-        // operandB = '';
-        // addition = '';
-        // additionSelected = false;
-
         calcScreen.value = result;
 
         if (result.toString().length > 6 && result.toString().length < 9) {
