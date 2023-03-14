@@ -1,6 +1,6 @@
 # Calculator
 
-Калькулятор https://edosjoy.github.io/calculator/
+Deploy: https://edosjoy.github.io/calculator/
 
 Требования задачи:
 * Необходимо создать клон обычного калькулятора
